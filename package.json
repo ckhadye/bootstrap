@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap course from coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckhadye/bootstrap.git"
+  },
+  "author": "Chetan k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckhadye/bootstrap/issues"
+  },
+  "homepage": "https://github.com/ckhadye/bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
